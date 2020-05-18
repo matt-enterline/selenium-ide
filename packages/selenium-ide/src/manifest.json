@@ -1,7 +1,7 @@
 {
-  "description": "Selenium Record and Playback tool for ease of getting acquainted with Selenium WebDriver.",
+  "description": "Selenium Record and Playback tool for ease of getting acquainted with Selenium WebDriver. Customized for use in Cargas Energy",
   "manifest_version": 2,
-  "name": "Selenium IDE",
+  "name": "Selenium IDE - Cargas",
   "version": "3.17.0",
   "version_name": "3.17.0",
   "homepage_url": "https://github.com/SeleniumHQ/selenium-ide",
